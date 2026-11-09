@@ -1,0 +1,9 @@
+review_id,product_id,category,rating,review_text
+R101,PROD_ELECTRONICS_01,Electronics,5,Great headphones sound quality is amazing
+R102,PROD_ELECTRONICS_01,Electronics,4,Good battery life comfortable
+R103,PROD_ELECTRONICS_02,Electronics,1,Broke after two days
+R104,PROD_BOOKS_01,Books,5,Incredible storytelling must read
+R105,PROD_BOOKS_01,Books,5,Best book of the year
+R106,PROD_BOOKS_02,Books,3,Average read slightly predictable
+R107,PROD_CLOTHING_01,Clothing,2,Fits smaller than expected
+R108,PROD_ELECTRONICS_01,Electronics,5,Exceptional noise cancellation
